@@ -20,6 +20,8 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrirafi&show_icons=true&locale=en" alt="mrirafi" /></p>
 
+<br>
+
 <h3 align="right">Connect with me:</h3>
 <p align="right">
 <a href="https://twitter.com/mrirafi20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrirafi20" height="30" width="40" /></a>
@@ -44,6 +46,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrirafi" alt="mrirafi" /></a> </p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrirafi&show_icons=true&locale=en&layout=compact" alt="mrirafi" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrirafi&show_icons=true&locale=en&layout=compact" alt="mrirafi" /></p>
 
 
