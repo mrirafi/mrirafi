@@ -17,7 +17,6 @@
 
 - ⚡ Fun fact **Do project with fun**
 
-<br><br>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mrirafi&show_icons=true&locale=en" alt="mrirafi" /></p>
 
@@ -32,7 +31,7 @@
 <a href="https://medium.com/@mrirafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mrirafi" height="30" width="40" /></a>
 </p>
 
-<br><br>
+<br><br><br><br>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mrirafi&" alt="mrirafi" /></p>
 <br><br><br>
