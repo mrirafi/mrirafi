@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Android, Web development**
 
-- 📫 How to reach me **mrirafi0@gmail.com**
+- 📫 How to reach me **mrirafi20@gmail.com**
 
 - ⚡ Fun fact **Do project with fun**
 
